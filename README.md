@@ -20,4 +20,5 @@ The 3.0 line is aimed at people making multi-shot pieces, not single clips. The 
 *This is an independent page about a third-party release, with no affiliation to Kling AI; all product names and trademarks belong to their owners.*
 
 
+
 _Last reviewed: 2026-09-22_
